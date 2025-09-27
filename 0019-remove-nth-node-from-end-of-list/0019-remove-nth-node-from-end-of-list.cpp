@@ -12,8 +12,6 @@ public:
         length++;
         current = current->next;
     }
-
-    // head silinecekse
     if (length == n) {
         return head->next;
     }
