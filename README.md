@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/agoodjoe637/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/agoodjoe637/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/agoodjoe637/leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/agoodjoe637/leetcode/tree/master/0031-next-permutation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/agoodjoe637/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/agoodjoe637/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Trie
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/agoodjoe637/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/agoodjoe637/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/agoodjoe637/leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/agoodjoe637/leetcode/tree/master/0031-next-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
