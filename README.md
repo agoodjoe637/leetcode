@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/agoodjoe637/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/agoodjoe637/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/agoodjoe637/leetcode/tree/master/0029-divide-two-integers) |
+| [1642-water-bottles](https://github.com/agoodjoe637/leetcode/tree/master/1642-water-bottles) |
 ## String
 |  |
 | ------- |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/agoodjoe637/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/agoodjoe637/leetcode/tree/master/0022-generate-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/agoodjoe637/leetcode/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
