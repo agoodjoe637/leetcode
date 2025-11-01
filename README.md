@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/agoodjoe637/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/agoodjoe637/leetcode/tree/master/0036-valid-sudoku) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/agoodjoe637/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/agoodjoe637/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/agoodjoe637/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/agoodjoe637/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/agoodjoe637/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/agoodjoe637/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/agoodjoe637/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/agoodjoe637/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/agoodjoe637/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Trie
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/agoodjoe637/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/agoodjoe637/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/agoodjoe637/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/agoodjoe637/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
