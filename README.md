@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/agoodjoe637/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/agoodjoe637/leetcode/tree/master/0036-valid-sudoku) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/agoodjoe637/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/agoodjoe637/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/agoodjoe637/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/agoodjoe637/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/agoodjoe637/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/agoodjoe637/leetcode/tree/master/1642-water-bottles) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/agoodjoe637/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/agoodjoe637/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Binary Search
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/agoodjoe637/leetcode/tree/master/0036-valid-sudoku) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/agoodjoe637/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Prefix Sum
 |  |
 | ------- |
