@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/agoodjoe637/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/agoodjoe637/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/agoodjoe637/leetcode/tree/master/0022-generate-parentheses) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/agoodjoe637/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Array
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/agoodjoe637/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/agoodjoe637/leetcode/tree/master/0036-valid-sudoku) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/agoodjoe637/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/agoodjoe637/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/agoodjoe637/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/agoodjoe637/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/agoodjoe637/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/agoodjoe637/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/agoodjoe637/leetcode/tree/master/0022-generate-parentheses) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/agoodjoe637/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/agoodjoe637/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/agoodjoe637/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Sliding Window
 |  |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/agoodjoe637/leetcode/tree/master/0011-container-with-most-water) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/agoodjoe637/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Sorting
 |  |
 | ------- |
