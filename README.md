@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/agoodjoe637/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/agoodjoe637/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/agoodjoe637/leetcode/tree/master/0036-valid-sudoku) |
+| [0217-contains-duplicate](https://github.com/agoodjoe637/leetcode/tree/master/0217-contains-duplicate) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/agoodjoe637/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/agoodjoe637/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/agoodjoe637/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/agoodjoe637/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/agoodjoe637/leetcode/tree/master/0036-valid-sudoku) |
 | [0088-merge-sorted-array](https://github.com/agoodjoe637/leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/agoodjoe637/leetcode/tree/master/0217-contains-duplicate) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/agoodjoe637/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/agoodjoe637/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/agoodjoe637/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/agoodjoe637/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/agoodjoe637/leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/agoodjoe637/leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/agoodjoe637/leetcode/tree/master/0217-contains-duplicate) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/agoodjoe637/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Backtracking
 |  |
