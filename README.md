@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/agoodjoe637/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/agoodjoe637/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/agoodjoe637/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/agoodjoe637/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/agoodjoe637/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/agoodjoe637/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/agoodjoe637/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/agoodjoe637/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/agoodjoe637/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/agoodjoe637/leetcode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/agoodjoe637/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/agoodjoe637/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/agoodjoe637/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/agoodjoe637/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/agoodjoe637/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/agoodjoe637/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/agoodjoe637/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/agoodjoe637/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/agoodjoe637/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Backtracking
 |  |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/agoodjoe637/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/agoodjoe637/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Matrix
 |  |
@@ -185,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/agoodjoe637/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/agoodjoe637/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/agoodjoe637/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/agoodjoe637/leetcode/tree/master/3863-power-grid-maintenance) |
@@ -212,4 +217,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/agoodjoe637/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/agoodjoe637/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/agoodjoe637/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/agoodjoe637/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
