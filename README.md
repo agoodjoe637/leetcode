@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/agoodjoe637/leetcode/tree/master/0029-divide-two-integers) |
 | [1642-water-bottles](https://github.com/agoodjoe637/leetcode/tree/master/1642-water-bottles) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/agoodjoe637/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3697-compute-decimal-representation](https://github.com/agoodjoe637/leetcode/tree/master/3697-compute-decimal-representation) |
 ## String
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/agoodjoe637/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/agoodjoe637/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/agoodjoe637/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3697-compute-decimal-representation](https://github.com/agoodjoe637/leetcode/tree/master/3697-compute-decimal-representation) |
 | [3863-power-grid-maintenance](https://github.com/agoodjoe637/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Trie
 |  |
