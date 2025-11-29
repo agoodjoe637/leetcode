@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/agoodjoe637/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/agoodjoe637/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/agoodjoe637/leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/agoodjoe637/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/agoodjoe637/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/agoodjoe637/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/agoodjoe637/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/agoodjoe637/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/agoodjoe637/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/agoodjoe637/leetcode/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/agoodjoe637/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/agoodjoe637/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/agoodjoe637/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/agoodjoe637/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/agoodjoe637/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [3863-power-grid-maintenance](https://github.com/agoodjoe637/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
