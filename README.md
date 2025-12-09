@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/agoodjoe637/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/agoodjoe637/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/agoodjoe637/leetcode/tree/master/0242-valid-anagram) |
+| [0844-backspace-string-compare](https://github.com/agoodjoe637/leetcode/tree/master/0844-backspace-string-compare) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/agoodjoe637/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Array
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/agoodjoe637/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/agoodjoe637/leetcode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/agoodjoe637/leetcode/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/agoodjoe637/leetcode/tree/master/0844-backspace-string-compare) |
 ## Linked List
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/agoodjoe637/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/agoodjoe637/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/agoodjoe637/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0844-backspace-string-compare](https://github.com/agoodjoe637/leetcode/tree/master/0844-backspace-string-compare) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/agoodjoe637/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Bit Manipulation
 |  |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/agoodjoe637/leetcode/tree/master/0844-backspace-string-compare) |
 | [1642-water-bottles](https://github.com/agoodjoe637/leetcode/tree/master/1642-water-bottles) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/agoodjoe637/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/agoodjoe637/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
