@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/agoodjoe637/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/agoodjoe637/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/agoodjoe637/leetcode/tree/master/0029-divide-two-integers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/agoodjoe637/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1642-water-bottles](https://github.com/agoodjoe637/leetcode/tree/master/1642-water-bottles) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/agoodjoe637/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3697-compute-decimal-representation](https://github.com/agoodjoe637/leetcode/tree/master/3697-compute-decimal-representation) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/agoodjoe637/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/agoodjoe637/leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/agoodjoe637/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/agoodjoe637/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/agoodjoe637/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/agoodjoe637/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/agoodjoe637/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/agoodjoe637/leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/agoodjoe637/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/agoodjoe637/leetcode/tree/master/0155-min-stack) |
 ## Linked List
 |  |
