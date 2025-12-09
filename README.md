@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/agoodjoe637/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/agoodjoe637/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/agoodjoe637/leetcode/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/agoodjoe637/leetcode/tree/master/0739-daily-temperatures) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/agoodjoe637/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/agoodjoe637/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/agoodjoe637/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/agoodjoe637/leetcode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/agoodjoe637/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/agoodjoe637/leetcode/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/agoodjoe637/leetcode/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
 | ------- |
@@ -251,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/agoodjoe637/leetcode/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/agoodjoe637/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
