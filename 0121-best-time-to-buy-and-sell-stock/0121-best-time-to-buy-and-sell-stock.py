@@ -10,9 +10,10 @@ class Solution:
         while right < len(prices):
             if prices[left] < prices[right]:
                 current_profit = max(current_profit, prices[right] - prices[left])
-                right += 1
+                
             else:
                 left = right
-                right += 1
+                
+            right += 1
 
         return current_profit
